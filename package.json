@@ -87,5 +87,7 @@
   "bugs": {
     "url": "https://github.com/skatt931/decoris/issues"
   },
-  "homepage": "https://github.com/skatt931/decoris#readme"
+  "homepage": "https://github.com/skatt931/decoris#readme",
+  "registry": "https://npm.pkg.github.com",
+  "files": ["./dist"]
 }
